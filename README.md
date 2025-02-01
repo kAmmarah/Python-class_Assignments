@@ -1,2 +1,2 @@
-# Python-class_Assignments
-This is my class assignment project, which I am coding in Python. I am creating my project based on this, and I will showcase my work on this platform as part of the assignment
+# python_class_Assignments
+This is my first coding project folder on GitHub, showcasing class assessment tools using Python functions, tools, and modules. I upload daily coding tasks, class assignments, and assessments here. GitHub has been an excellent platform for learning and sharing my progress.
